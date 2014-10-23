@@ -44,7 +44,7 @@
 #ifndef QWINWIDGET_H
 #define QWINWIDGET_H
 
-#include <QWidget>
+#include <QtGui/QWidget>
 #include "qmfcapp.h"
 
 class CWnd;
